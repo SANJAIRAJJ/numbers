@@ -1,0 +1,65 @@
+#main{
+    border: 5px solid black;
+    height: 550px;
+    width: 775px;
+    margin: auto;
+    margin-top: 150px;
+    background-image: url(https://cdn.pixabay.com/photo/2018/07/25/16/00/art-3561710_640.jpg);
+    
+    
+    
+}
+#h{
+    font-size: 25px;
+    color: white;
+}
+#r{
+    font-size: 25px;
+    color: white;
+}
+#rules{
+    text-align: justify;
+    margin-left: 200px;
+    justify-content: space-evenly;
+    font-size: 23px;
+    color: white;
+    
+    
+}
+#n1{
+    margin-left: 255px;
+    border-color: black;
+    font-size: 25px;
+}
+#num{
+    font-size: 25px;
+}
+#btn{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    border-color: black;
+    font-size: medium;
+}
+#b1{
+    width: 95px;
+    height: 35px;
+    border-radius: 35%;
+}
+    
+#b2{
+    width: 95px;
+    height: 35px;
+    border-radius: 35%;
+}
+#w{
+    color: white;
+    font-size: 25px;
+}
+#num{
+    color: white;
+    font-size: 35px;
+}
+#b1:hover{
+    background-color: gray;
+}
